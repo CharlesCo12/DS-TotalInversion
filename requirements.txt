@@ -17,9 +17,4 @@ pytz
 pytz-deprecation-shim==0.1.0.post0
 pyviz-comms
 PyWavelets
-pywin32
-pywin32-ctypes
-pywinpty
-PyYAML
-pyzmq
 streamlit==1.17.0
